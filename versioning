@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.1",
-  "latestVersionCode": "1",
+  "latestVersion": "1.2.4",
+  "latestVersionCode": "4",
   "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
     "- Bug fixes and improvements"
